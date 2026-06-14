@@ -14,3 +14,17 @@ The description of the solution to the problem is located in [Solution](/Solutio
 Stages and tasks considered in the project.<br>
 > *Этапы и задачи, рассматриваемые в рамках проекта*
 
+## Part 1.
+> *Описание задания*
+
+## Part 2.
+> *Описание задания*
+
+## Part 3.
+> *Описание задания*
+
+## Part 4.
+> *Описание задания*
+
+## Part 5.
+> *Описание задания*
